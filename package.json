@@ -1,5 +1,5 @@
 {
-  "name": "todo-backend",
+  "name": "my-project",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -20,7 +20,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "6761b37b-62a3-4aa9-bbf1-41254c9e978f"
+    "uuid": "5b38ee14-df1c-415f-a467-f985aa1e195d"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
